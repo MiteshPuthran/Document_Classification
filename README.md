@@ -9,7 +9,7 @@ Document classification is one of the important classification problem that we d
 <br>
 ## My Approach:
 
-### Raw Data conversion and extraction
+### 1. Raw Data conversion and extraction
 * The raw data folder contains different file formats in different folders. Textual data needs to be extracted from them. Here doc files have been converted to PDF format first before extraction. I had issues while installing textract library which extracts test from the doc files directly, so I converted them to PDF and used pdfminer to extract texts.
 Texts are extracted on folder basis because the extracted texts need to be labeled.
 
@@ -22,7 +22,7 @@ Texts are extracted on folder basis because the extracted texts need to be label
 ![](images/pre.PNG?raw=true)
 <br>
 
-### Feature Engineering
+### 2. Feature Engineering
 * Here I counted the top 5 occuring words in the extracted texts from each classification folder. This proves to be one of the useful feature which can be included while building the dataframe for the model building.
 
 ![](images/feature.PNG?raw=true)
@@ -30,7 +30,7 @@ Texts are extracted on folder basis because the extracted texts need to be label
 
 * This process is done for each classification folder and then merged together for final data frame which can be used for further processing.
 
-### Data Analysis
+### 3. Data Analysis
 * This step involves analyzing the text data and deciding what to do with it. On analysis, we can see that there are lot data points for one particular class and it drastically reduces for other classes. 
 
 ![](images/sampling.PNG?raw=true)
@@ -40,7 +40,7 @@ Texts are extracted on folder basis because the extracted texts need to be label
 
 * After oversampling each class gets **807** data points to work with.
 
-### Building Models and testing accuracies
+### 4. Building Models and testing accuracies
 * Built 5 different models (Naive Bayes, Random Forest, XGBoost, Word2Vec, Doc2Vec for this classification problem and compared them how they performed with prediction of classes. You can see the deatils and its performance in the jupyter notebook.
 
 ![](images/model.PNG?raw=true)
@@ -48,7 +48,7 @@ Texts are extracted on folder basis because the extracted texts need to be label
 
 * For the Word2Vec model, I used a pre-trained google news vector model to predict the vectors for the words in my dataset. Built a logistic regression model to the classifcation process. The Doc2Vec is similar but without the pretrained vectors.
 
-### Predicting on random file
+### 5. Predicting on random file
 * After tuning the models, the next step was to test it on a random file. 
 
 ![](images/demo.PNG?raw=true)
@@ -57,9 +57,9 @@ Texts are extracted on folder basis because the extracted texts need to be label
 ![](images/demo2.PNG?raw=true)
 <br>
 
-**As you can see that the model predicted the class of the document accurately.**
+**As you can see that the model predicted the class of the document accurately as Human Resources.**
 
 ### Conclusion
-The saved model has correctly predicted the class of the input file. The saved model had predicting accuracy of around 93% with a good precision for all classes above 90%. 
+The saved model has correctly predicted the class of the input file. The saved model had predicting accuracy of around 94% with a good precision for all classes above 90%. 
 Different classification models can be trained for this task and compared for their perfomances. 
 
