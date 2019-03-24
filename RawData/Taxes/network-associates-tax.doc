@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tax Sharing Agreement - Network Associates Inc. and McAfee.com Corp. - Sample Contracts and Business Forms </title>
+
+<META NAME="description" CONTENT="Tax Sharing Agreement - Network Associates Inc. and McAfee.com Corp. and Other Business Contracts, Forms and Agreeements.  Competitive Intelligence for Investors.">
+
+<META NAME="keywords" CONTENT="competitive intelligence, business contract, business forms, SEC filings, SEC EDGAR, material contracts">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta property="fb:admins" content="609876513" />
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+    /* Remove the navbar's default margin-bottom and rounded borders */
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+
+    }
+	div.index li {
+	margin:1em 0;
+	   }
+	.breadcrumb {
+	margin-bottom:0px;
+	}
+	pre {
+	background-color:#FFFFFF;
+	border:none;
+	}
+    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+    .row.content {height: 450px}
+    
+    /* Set gray background color and 100% height */
+    .sidenav {
+      padding-top: 20px;
+      background-color: #f1f1f1;
+      height: 100%;
+    }
+    
+    /* Set black background color, white text and some padding */
+    footer {
+      background-color: #EEE;
+      color: #333;
+      padding: 15px;
+    }
+    
+    /* On small screens, set height to 'auto' for sidenav and grid */
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+      .row.content {height:auto;}
+    }
+  </style>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-71258-2', 'onecle.com');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript">
+window.google_analytics_uacct = "UA-71258-2";
+</script>
+
+<script>
+/**
+* Function that tracks a click on an outbound link in Google Analytics.
+* This function takes a valid URL string as an argument, and uses that URL string
+* as the event label.
+*/
+var trackOutboundLink = function(url) {
+   ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
+     function () {
+     document.location = url;
+     }
+   });
+}
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-5933846261594825",
+    enable_page_level_ads: true
+  });
+</script></head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#"><strong><font color="#EEEEEE">one</font><font color="#EE3333">cle</font></strong></a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="http://www.onecle.com/">Home</a></li>
+        <li><a href="http://contracts.onecle.com/">Business Contracts</a></li>
+        <li><a href="http://law.onecle.com/">Laws</a></li>
+        <li><a href="http://contracts.onecle.com/consumer/incorporation.shtml">Incorporation</a></li>
+        <li><a href="http://lawyers.onecle.com/">Lawyer Directory</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<ol itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="breadcrumb">
+	<li><a href="http://www.onecle.com/" itemprop="url"><span itemprop="title">Home</span></a></li>
+	<li itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/index.shtml" itemprop="url"><span itemprop="title">Sample Business Contracts</span></a></li>
+	<li itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="active">
+			
+<a href="http://contracts.onecle.com/alpha/7885.shtml"  itemprop="url"><span itemprop="title">McAfee Inc. Contracts</span></a>
+
+	</li>
+</ol>
+<div>
+<script>
+  (function() {
+    var cx = '016782931958625056904:77mdzlxjmx4';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+</div>
+
+<div class="container" style="padding-bottom:40pt;">
+	<div class="row ">
+		<div class="col-sm-12" style="text-align:left;">
+
+<p style="text-align:right;font-size:0.8em;"><a href="http://print.onecle.com/contracts/mcafee/network-associates-tax.shtml" target="_blank">printer-friendly</a></p>
+
+<h1>Sample Business Contracts</h1>
+<p>Tax Sharing Agreement - Network Associates Inc. and McAfee.com Corp.</p>
+<div class="container">
+	<div class="row ">
+		<div class="col-sm-12" style="text-align:left;">
+
+<h2 class="index">Popular Free Forms</h2>
+<div class="index">
+<ul>
+	<li><a href="http://rocketlawyer.go2cloud.org/aff_c?offer_id=190&aff_id=1133&url_id=4302" rel="nofollow" onclick="trackOutboundLink( 'http://rocketlawyer.go2cloud.org/aff_c?offer_id=190&aff_id=1133&url_id=4302');return false;">Loan Agreement</a></li>
+	<li><a href="http://rocketlawyer.go2cloud.org/aff_c?offer_id=190&aff_id=1133&url_id=4218" rel="nofollow" onclick="trackOutboundLink( 'http://rocketlawyer.go2cloud.org/aff_c?offer_id=190&aff_id=1133&url_id=4218');return false;">General Contract for Services</a></li>
+	<li><a href="http://rocketlawyer.go2cloud.org/aff_c?offer_id=190&aff_id=1133&url_id=4452" rel="nofollow" onclick="trackOutboundLink( 'http://rocketlawyer.go2cloud.org/aff_c?offer_id=190&aff_id=1133&url_id=4452');return false;">Promissory Note</a></li>
+	<li><a href="http://rocketlawyer.go2cloud.org/aff_c?offer_id=190&aff_id=1133&url_id=5824" rel="nofollow" onclick="trackOutboundLink( 'http://rocketlawyer.go2cloud.org/aff_c?offer_id=190&aff_id=1133&url_id=5824');return false;">Employment Agreement</a></li>
+	<li><a href="http://rocketlawyer.go2cloud.org/aff_c?offer_id=190&aff_id=1133&url_id=4368" rel="nofollow" onclick="trackOutboundLink( 'http://rocketlawyer.go2cloud.org/aff_c?offer_id=190&aff_id=1133&url_id=4368');return false;">Noncompete Agreement</a></li>
+</ul>
+</div>
+
+		</div>
+	</div>
+</div>
+<div class="container">
+	<div class="row ">
+		<div class="col-sm-12" style="text-align:left;">
+<h4>Sponsored Links</h4>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Contracts Responsive Top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5933846261594825"
+     data-ad-slot="7098014696"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div></div>
+
+
+
+<pre>
+                              TAX SHARING AGREEMENT
+
+
+
+         This Tax Sharing Agreement (the "Agreement") is made by and between
+Network Associates, Inc. ("NAI") and each of the other entities listed on
+Schedule A annexed hereto, as amended from time to time.
+
+         WHEREAS, NAI is the parent of an affiliated group of corporations, as
+defined in section 1504(a) of the Internal Revenue Code of 1986, as amended (the
+"Code");
+
+         WHEREAS, NAI, on behalf of its affiliated group, is required to file
+consolidated federal income tax returns in accordance with section 1501 of the
+Code and may be required to file consolidated federal income tax returns for
+subsequent taxable years; and
+
+         WHEREAS, the parties wish to provide for the allocation between them of
+consolidated federal income tax liability, state and local income tax liability,
+and certain related matters.
+
+         NOW, THEREFORE, in consideration of the foregoing premises and of the
+mutual covenants and agreements contained herein, the parties agree as follows:
+
+         1.       DEFINITIONS.
+
+         For purposes of this Agreement, the terms set forth below shall be
+defined as follows:
+
+                  (a) "Group" shall mean Parent (as hereinafter defined) and
+all other corporations (whether now existing or hereafter formed or acquired)
+that are required to join with Parent in filing a consolidated federal income
+tax return.
+
+                  (b) "Group Tax Liability" shall mean the consolidated federal
+income tax liability of the Group reported on the Group's consolidated federal
+income tax return filed for the taxable year.
+
+                  (c) "Member" shall mean any corporation that is required to
+join with Parent in filing a consolidated federal income tax return, as listed
+on Schedule A, as amended from time to time.
+
+                  (d) "Parent" shall mean (i) NAI, (ii) any successor common
+parent corporation described in Treas. Reg. Section 1.1502-75(d)(2)(i) or (ii),
+or (iii) any corporation as to which Parent (or a successor corporation
+described in clause (ii) hereof) is the "predecessor" within the meaning of
+Treas. Reg. Section 1.1502-1(f)(1), if such corporation acquires NAI (or a
+successor corporation described in clause (ii) hereof) in a "reverse
+acquisition" within the meaning of Treas. Reg. Section 1.1502-75(d)(3).
+
+                  (e) "Separate Return Tax Liability" shall mean with respect to
+any Member for any taxable year the hypothetical federal income tax liability of
+such Member determined on a pro forma basis as if such Member had filed its own
+separate federal income tax return for such year and
+
+
+&lt;PAGE&gt;   2
+
+calculated by (i) taking into account only losses, credits, carryovers of losses
+and credits from prior or subsequent years, and other tax attributes of the
+Member (determined without reference to the effect of the application of the
+consolidated return regulations on the Member's attributes), all of which
+attributes are subject to the limitations of the Code that would have been
+applicable had the Member filed a separate federal income tax return for all
+taxable years relating to the computation, (ii) imposing a tax on the taxable
+income of the Member at a rate equal to the rate specified by the Code for the
+taxable year under each applicable tax provision (including without limitation
+the taxes imposed under Sections 11, 55 and 1201(a) of the Code), without surtax
+exemptions, and (iii) employing the methods and principles of accounting,
+elections and conventions that are used by the Group. The Separate Return Tax
+Liability of a Member shall include any interest or penalties that would have
+been shown as due had such Member filed a separate federal income tax return for
+the taxable year in accordance with this subparagraph (e).
+
+         2.       FILING OF RETURNS.
+
+                  (a) Parent shall, on a timely basis, file or cause to be
+filed, consolidated federal income tax returns and estimated tax returns for
+each taxable year during the term of this Agreement and shall pay in full any
+tax shown as due thereon. Each Member shall execute and file such consents,
+elections, and other documentation as may be required or appropriate for the
+proper filing of such returns. Each Member shall also maintain such books and
+records and provide such information as Parent may request in connection with
+the matters contemplated by this Agreement.
+
+                  (b) Parent shall have the right, in its sole discretion, to
+(i) make any elections which are employed in the filing of such returns,
+including any elections denominated as such in the Code and choice of methods of
+accounting and depreciation; (ii) determine the manner in which such returns
+shall be prepared and filed, including without limitation, the manner in which
+any item of income, gain, loss, deduction or credit shall be reported; (iii)
+contest, compromise or settle any adjustment or deficiency proposed, asserted or
+assessed as a result of any audit of any such returns; (iv) file, prosecute,
+compromise or settle any claim for refund; and (v) determine whether any refunds
+to which the Group may be entitled shall be paid by way of refund or credit
+against the federal income tax liability of the Group.
+
+                  (c) The Group will jointly file state, local and foreign tax
+returns on a combined, consolidated, unitary, or other method that Parent
+determines in its sole discretion results in a lower overall tax liability for
+the Group. In the event any such state or local tax returns are filed, all of
+the provisions of this Agreement shall apply to the extent determined by Parent
+to the allocation, preparation, filing and payment related to such state and
+local taxes and returns and shall be applied as is appropriate in the context of
+the applicable state and local tax laws as determined in the sole discretion of
+Parent, provided, further, that any benefit realized by the filing of such state
+and local returns shall remain with Parent.
+
+
+         3.       PAYMENTS.
+
+
+                                      -2-
+&lt;PAGE&gt;   3
+
+         For each taxable year of the Group with respect to which a consolidated
+federal income tax return is filed, Each Member shall make payments to Parent in
+the following manner:
+
+                  (a) Each Member shall pay to Parent the amount of such
+Member's Separate Return Tax Liability not later than five (5) days before the
+date on which the Group's consolidated federal income tax return is required to
+be filed (taking account of any extensions thereof).
+
+                  (b) Each Member shall pay to Parent, not later than five (5)
+days before the date such Member would be required to make a payment of
+estimated federal income taxes were such Member to file a separate federal
+income tax return for the taxable year (including any payment due at the time
+any extension of time for the filing of such hypothetical return is obtained),
+an amount, as determined by Parent in a manner consistent with paragraph 1(e),
+equal to the portion of such Member's Separate Return Tax Liability that would
+be due were that Member to file a separate federal income tax return for the
+taxable year. The Quarterly Estimated Tax Payment shall be determined at the
+Parent's sole discretion. Any payments made by a Member to Parent under this
+subparagraph (b) with respect to a taxable year shall be applied to reduce the
+amount, if any, owing by that Member under subparagraph (a) of this paragraph 3
+with respect to such year. Any excess of such payments over the amount
+determined under subparagraph (a) of this paragraph 3 for such year shall be
+repaid by Parent to that Member not later than forty-five (45) days after the
+date on which the Group's federal income tax return is filed or, to the extent
+that such excess represents all or a part of a tax refund claimed by the Group,
+not later than forty-five (45) days after the receipt of such refund.
+
+
+         4.       CHANGES IN TAX LIABILITY.
+
+                  (a) If with respect to any taxable year (i) the Group files an
+amended consolidated federal income tax return reporting a consolidated federal
+income tax liability different from the Group Tax Liability, (ii) the Group Tax
+Liability or a Member's tax liability is adjusted and such adjustment is part of
+a final "determination" as that term is defined in section 1313(a) of the Code,
+or (iii) the Group is assessed and pays federal income taxes in excess of the
+Group Tax Liability by reason of any of the events specified in section 6213(b)
+or (d) of the Code, then the amounts of the payments required under paragraph 3
+shall be recomputed, subject to the limitations of subparagraph (c) of this
+paragraph 4, to give effect to such amended return, adjustment or assessment, as
+the case may be. that Member shall then pay to Parent, or Parent shall then pay
+to that Member, as the case may be, any difference between the amounts
+determined by such recomputation and the amounts previously paid. Such payments
+shall be made no later than (i) in the case of an additional payment of tax by
+the Group due as a result of such amended return, adjustment or assessment, the
+later of (a) five (5) days before the date on which such additional payment of
+tax is due or (b) five (5) days after the date on which Parent notifies of the
+amount of payment due from that Member pursuant to this subparagraph (a); or
+(ii) where the Group receives a refund arising from such amended return or
+adjustment, forty-five (45) days after the receipt of such refund.
+
+                  (b) If with respect to any taxable year in which the Group
+files an amended consolidated federal income tax return reporting a consolidated
+federal income tax liability identical to the Group Tax Liability, then the
+amounts of the payments required under paragraph 3, subject to the limitations
+of subparagraph (c) of this paragraph 4, shall be recomputed to give effect to
+such
+
+
+                                      -3-
+&lt;PAGE&gt;   4
+
+amended return. Not later than forty-five (45) days after the filing of such
+amended return, the affected Member shall pay to Parent, or Parent shall pay to
+that Member, as the case may be, any difference between the amounts determined
+by such recomputation and the amounts previously paid.
+
+                  (c) If with respect to any taxable year a Member realizes a
+loss or credit that would be permitted under the Code (taking into account any
+election under section 172(b)(3) of the Code) to be carried to one or more
+taxable years that precede such taxable year if such Member had filed a separate
+federal income tax return for all such taxable years, then the amounts of the
+payments required under paragraph 3 for such taxable years shall be recomputed
+to give effect to such carryback; provided, however, that, notwithstanding
+subparagraphs (a) and (b) of this paragraph 4, no such recomputation shall be
+made with respect to any loss or credit carried back to a taxable year beginning
+before the date hereof, or, if later, a taxable year in which such Member was
+not a Member; provided, further, that no loss or credit that could be carried
+back to a taxable year beginning before the date hereof in which such Member was
+a Member shall be considered in determining such Member's Separate Return Tax
+Liability for any other year. Such Member shall pay to Parent, or Parent shall
+pay to such Member, as the case may be, any difference between the amounts
+determined by such recomputation and the amounts previously paid not later than
+forty-five (45) days after the date on which the Group's federal income tax
+return for the taxable year is filed, or to the extent that such difference
+represents all or part of a tax refund claimed by the Group, not later than five
+(5) days after the receipt of such refund.
+
+                  (d) The parties recognize that a recomputation under
+subparagraphs (a), (b) or (c) of this paragraph 4 of the amounts of the payments
+required under paragraph 3 for any taxable year will not necessarily be the
+final determination of the amounts of such payments for such year, and the
+amounts of such payments may be recomputed more than once.
+
+                  (e) In the event that a change in the tax liability of the
+Group arising from an amended return, adjustment or assessment described in
+subparagraph (a) of this paragraph 4 results or will result in the receipt or
+payment of interest, or the payment or recovery of penalties in excess of the
+aggregate interest or penalties included in determining the aggregate Separate
+Return Tax Liability of a Member, such interest or penalties shall be allocated
+to such Member as follows: The total amount of such excess interest or penalty
+shall be multiplied by a fraction, the denominator of which is the amount of the
+change in the Group Tax Liability on which the interest or penalty is computed,
+and the numerator of which is the amount of the change in such Member's
+allocated tax liability, in both cases with respect to the most recent prior
+computation of the Group Tax Liability and such Member's Separate Return Tax
+Liability. Such Member shall pay to Parent, or Parent shall pay to such Member,
+as the case may be, the excess interest or penalties allocated to such Member
+pursuant to this subparagraph 4(e) at the same time the amounts payable pursuant
+to subparagraph (a) of this paragraph 4 become payable.
+
+
+                                      -4-
+&lt;PAGE&gt;   5
+
+                  (f) Except as provided in paragraph 6, payments made pursuant
+to subparagraphs (a), (b), (c), (d), or (e) of this paragraph 4 shall not
+themselves bear interest.
+
+
+         5.       INDEMNIFICATION.
+
+                  (a) Each Member agrees to indemnify and hold harmless Parent
+with respect to any liability for federal income taxes, including any interest
+thereon, any additions to such taxes and assessable penalties imposed with
+respect thereto (collectively "Taxes") to the extent that Parent's liability for
+such Taxes is attributable to the failure of such Member to make the payments
+required of it pursuant to paragraphs 3 and 4 of this Agreement or to the
+failure of such subsidiary to comply with subparagraph (a) of paragraph 2 of
+this Agreement.
+
+                  (b) Parent agrees to indemnify and hold each Member harmless
+with respect to any liability for federal income taxes, including any interest
+thereon, any additions to such taxes and assessable penalties imposed with
+respect thereto (collectively, "Taxes"), where such liability arises solely by
+reason of such Member being severally liable for any taxes of the Group pursuant
+to Treas. Reg. Section 1.1502-6; provided, however, that such Member shall not
+be entitled to indemnification by Parent pursuant to this paragraph 5 unless
+such Member has made all payments required of it pursuant to paragraph 3 and 4
+of this Agreement and fully complied with subparagraph (a) of paragraph 2 of
+this Agreement.
+
+                  (c) Payment pursuant to the indemnity provided in this
+paragraph 5 shall be made within ten (10) days of notice that a payment
+requiring indemnification under this paragraph 5 has been made by the Parent.
+
+         6.       DEFAULT INTEREST.
+
+         Where payment required by this Agreement to be made from one party to
+another is not made within the time provided, the amount not timely paid shall
+bear interest at the rate established pursuant to section 6621(a)(2) of the
+Code.
+
+         7.       TERMINATION OF AFFILIATION.
+
+                  (a) In the event that a Member ceases to be included in the
+Group but continues to be a corporation subject to federal income tax, this
+Agreement, except as provided in paragraphs 5 and 7 of this Agreement, shall
+terminate.
+
+                  (b) Parent and each former Member shall consult and furnish
+each other with information concerning the status of any tax audit or tax refund
+claim relating to a taxable year in which such Member was a Member and a
+consolidated federal income tax return was filed. Parent shall have the right to
+make the final determination as to the response of the Group to any audit and
+shall have the sole right to control, at its own expense, any contest of any
+change proposed and any proposed disallowance of a refund claim by the Internal
+Revenue Service through the Appeals Office of the Internal Revenue Service and
+the courts in connection with any taxable year for which this Agreement is in
+effect.
+
+
+                                      -5-
+&lt;PAGE&gt;   6
+
+                  (c) Each Member shall reimburse Parent to the extent that such
+Member received a payment under this Agreement on account of (or payments made
+by it under this Agreement were reduced by) any loss or credit that remains an
+attribute of such Member (i.e., the loss or credit was not absorbed by the Group
+in calculating the Group Tax Liability).
+
+                  (d) Payments which would have been required under paragraphs 3
+and 4 of this Agreement to or by a Member, were such Member still a Member, with
+respect to those taxable years as to which such Member was a Member, shall be so
+made in accordance with principles analogous to those set forth in such
+paragraphs and at the times set forth therein; provided, however, that no such
+payments shall be made on account of any loss or credit realized by a Member in
+a year in which such Member was not a Member that may be carried back to a
+taxable year in which a Member was a Member.
+
+         8.       RESOLUTION OF DISPUTES.
+
+         Any dispute or ambiguity concerning the amount of any payment provided
+for under this Agreement shall be resolved by Parent in a manner consistent with
+the principles and procedures set forth in this Agreement. The judgment of
+Parent shall be conclusive and binding upon each of the parties to this
+Agreement.
+
+         9.       EFFECTIVE DATE.
+
+         This Agreement shall be effective on the effective date of the
+registration statement for Member's initial public offering of its common stock,
+and shall remain in effect for each taxable year thereafter in which any Member
+is included in a consolidated federal income tax return filed by Parent.
+
+         10.      INFORMATION AND EXPENSES.
+
+         Parent is authorized to retain accountants and attorneys for the
+purpose of preparing the Group's tax returns provided for herein, and each
+Member agrees to pay all the costs incurred by such Member in furnishing
+records, documents or information in the form requested by Parent in connection
+with the preparation of any such returns. Each Member shall promptly provide
+Parent with such records, documents and information as Parent shall request in
+connection with the preparation of such returns. Parent shall be authorized to
+retain accountants and attorneys for the purpose of preparing any of the refund
+claims provided for herein, and of representation in connection with any Member
+disputes with the IRS. In cases where the action taken is Member specific or
+where any Member has agreed that the action taken is appropriate, such Member"
+agrees to pay the costs reasonably allocated to it by Parent of employing such
+attorneys and accountants (including associated court costs), and to bear the
+costs incurred by it in furnishing records, documents and testimony in
+connection with any such matter.
+
+         11.      MISCELLANEOUS PROVISIONS.
+
+                  (a) This Agreement contains the entire understanding of the
+parties hereto with respect to the subject matter contained herein and
+supersedes all prior written, oral or implied understandings, representations
+and agreements among the parties with respect thereto. No
+
+
+                                      -6-
+&lt;PAGE&gt;   7
+
+alteration, amendment, or modification of any of the terms of this Agreement
+shall be valid unless made by an instrument signed in writing by an authorized
+officer of each party.
+
+                  (b) This Agreement shall be binding upon and inure to the
+benefit of each party hereto, its respective successors and assigns.
+
+                  (c) This Agreement is not intended to benefit any person other
+than the parties hereto, each of their respective successors and assigns. No
+person not (i) a party or (ii) a party's successor or assign shall be a third
+party beneficiary hereof.
+
+                  (d) This Agreement shall be governed by, interpreted and
+enforced in accordance with the laws of the State of California (regardless of
+the laws that might be applicable under principles of conflicts of laws).
+
+                  (e) This Agreement may be executed simultaneously in two or
+more counterparts, each of which shall be deemed an original, but all of which
+together shall constitute one and the same instrument.
+
+                  (f) The descriptive headings of the paragraphs of this
+Agreement are inserted for convenience only and shall not constitute a part
+hereof.
+
+                  (g) Any notice or other communication required or permitted
+under this Agreement shall be in writing and shall be personally delivered or
+sent by certified or registered United States mail, postage prepaid, to the
+parties at the following addresses (or at such other address as a party may
+specify by notice to the others):
+
+                                    If to Parent:
+
+                                    Network Associates, Inc.
+
+                                    ---------------------
+                                    ---------------------
+                                    ---------------------
+
+                                    If to a Member:
+
+                                    See the address set forth on Schedule A
+
+         Any such notice or communication shall be effective and be deemed to
+have been given as of the dates delivered or mailed, as the case may be;
+provided that any notice or communication changing any of the addresses set
+forth above shall be effective and deemed to have been given only upon its
+receipt.
+
+                  (h) Where the context so requires, the word "person" shall
+include a corporation, firm, partnership or other form of association or entity.
+
+
+                                      -7-
+&lt;PAGE&gt;   8
+
+         IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+duly executed as of the date set forth below, with the effective date as to each
+Member the date such Member joined the Group.
+
+                                                NETWORK ASSOCIATES, INC.
+
+                                                By:  /s/ PRABHAT K. GOYAL
+                                                    ----------------------------
+                                                Date:
+
+
+
+                                                McAFEE.COM CORPORATION
+
+                                                By:  /s/ SRIVATS SAMPATH
+                                                    ----------------------------
+                                                Date:
+
+
+
+
+
+
+
+&lt;PAGE&gt;   9
+
+
+
+
+                                   SCHEDULE A
+
+                    LIST AND ADDRESSES OF MEMBER CORPORATIONS
+
+
+
+         McAfee.com Corporation
+</pre>
+
+</div></div></div>
+
+
+	<footer class="container-fluid">
+
+<div class="row">
+  <div class="col-sm-6"><h4>Business Contracts</h4>
+  <p><a href="http://contracts.onecle.com/type/19.shtml">Asset Purchase</a><br>
+<a href="http://contracts.onecle.com/type/35.shtml">Business Separation</a><br>
+<a href="http://contracts.onecle.com/type/90.shtml">Collaboration</a><br>
+<a href="http://contracts.onecle.com/type/56.shtml">Construction</a><br>
+<a href="http://contracts.onecle.com/type/64.shtml">Consulting</a><br>
+<a href="http://contracts.onecle.com/type/147.shtml">Distribution</a><br>
+<a href="http://contracts.onecle.com/type/2.shtml">Employment</a><br>
+<a href="http://contracts.onecle.com/type/79.shtml">Franchise</a><br>
+<a href="http://contracts.onecle.com/type/11.shtml">Indemnification</a><br>
+<a href="http://contracts.onecle.com/type/60.shtml">Joint Venture</a><br>
+<a href="http://contracts.onecle.com/type/16.shtml">Lease</a><br>
+<a href="http://contracts.onecle.com/type/32.shtml">License</a><br>
+<a href="http://contracts.onecle.com/type/76.shtml">LLC</a><br>
+<a href="http://contracts.onecle.com/type/30.shtml">Loan</a><br>
+<a href="http://contracts.onecle.com/type/86.shtml">Management</a><br>
+<a href="http://contracts.onecle.com/type/47.shtml">Manufacturing/Supply</a><br>
+<a href="http://contracts.onecle.com/type/41.shtml">Merger</a><br>
+<a href="http://contracts.onecle.com/type/21.shtml">Non-Competition</a><br>
+<a href="http://contracts.onecle.com/type/189.shtml">Offer Letter</a><br>
+<a href="http://contracts.onecle.com/type/36.shtml">Partnership</a><br>
+<a href="http://contracts.onecle.com/type/67.shtml">Promissory Note</a><br>
+<a href="http://contracts.onecle.com/type/80.shtml">Sales</a><br>
+<a href="http://contracts.onecle.com/type/4.shtml">Services</a><br>
+<a href="http://contracts.onecle.com/type/38.shtml">Severance</a><br>
+<a href="http://contracts.onecle.com/type/68.shtml">Shareholder</a><br>
+<a href="http://contracts.onecle.com/type/6.shtml">Stock Purchase</a></p>
+  </div>
+  <div class="col-sm-6"><h4>Consumer Forms</h4>
+  <p><a href="http://contracts.onecle.com/consumer/divorce.shtml">Divorce</a><br>
+<a href="http://contracts.onecle.com/consumer/dmv.shtml">DMV</a><br>
+<a href="http://contracts.onecle.com/consumer/durable-power-of-attorney.shtml">Durable Power of Attorney</a><br>
+<a href="http://contracts.onecle.com/consumer/employment.shtml">Employment</a><br>
+<a href="http://contracts.onecle.com/consumer/government-forms.shtml">Government</a><br>
+<a href="http://contracts.onecle.com/consumer/identity-theft.shtml">Identity Theft</a><br>
+<a href="http://contracts.onecle.com/consumer/landlord-tenant.shtml">Landlord-Tenant</a><br>
+<a href="http://contracts.onecle.com/consumer/living-will-advance-directive.shtml">Living Will</a><br>
+<a href="http://contracts.onecle.com/consumer/mechanics-lien.shtml">Mechanic's Lien</a><br><a href="http://contracts.onecle.com/consumer/medical.shtml">Medical</a><br>
+<a href="http://contracts.onecle.com/consumer/probate.shtml">Probate</a><br>
+<a href="http://contracts.onecle.com/consumer/workers-compensation.shtml">Workers' Compensation</a></p>
+
+
+  <p class="line"><a href="http://www.onecle.com/blog/index.php">Contracts Blog</a></p>
+<p><a href="http://contracts.onecle.com/type/">View All Types</a><br>
+<a href="http://contracts.onecle.com/industries/">View All Industries</a><br>
+<a href="http://contracts.onecle.com/alpha/">View All Companies</a></p>
+
+  
+  </div>
+</div>
+
+<hr>
+
+<div class="row">
+  <div class="col-sm-12">
+
+
+		<a href="http://www.onecle.com/info/copyright.shtml">Copyright &copy; 2017 Onecle Inc.</a> No claim to contracts derived from securities filings.<br><br>
+		
+		
+		<a href="http://www.onecle.com/info/terms.shtml">Terms of Service</a> | <a href="http://www.onecle.com/info/privacy.shtml">Privacy Policy</a>
+	</div>
+</div>
+
+</footer>
+</body>
+</html>
